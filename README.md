@@ -3,7 +3,7 @@
 ## Hi there :wave:, welcome to Yirang's repository! 
 
 A little bit about myself:
-- 🔊 name is pronounced: yee-rah-ng
+- 🔊 name is pronounced: yee-rahng
 - 🐣 born and raised in 🇰🇷 grew up in 🇰🇷 🇵🇭 🇨🇳 🇺🇸
 - 👩‍🔬 chemical engineer by training
 - 💻 novice programmer (python)
