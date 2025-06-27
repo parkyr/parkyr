@@ -6,7 +6,7 @@ A little bit about myself:
 - 🔊 name is pronounced: yee-rahng
 - 🐣 born and raised in 🇰🇷 grew up in 🇰🇷 🇵🇭 🇨🇳 🇺🇸
 - 👩‍🔬 chemical engineer by training
-- 💻 novice programmer (python)
+- 💻 novice programmer (python, julia)
 - 🌲 current SECQUOIA member, working on pharma process synthesis and optimization
 - 🥐 food and baked goods enthusiast
 - ☕ coffee lover
